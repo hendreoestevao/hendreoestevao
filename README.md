@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/hendreo-estev%C3%A3o-906b73148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/hendreoestevao/hendreoestevao/blob/main/github/workflows/main.yml/github-contribution-grid-snake-svg)
+![Snake animation](https://github.com/hendreoestevao/hendreoestevao/blob/main/.github/workflows/main.yml)
