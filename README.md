@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/hendreo-estev%C3%A3o-906b73148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/hendreoestevao/hendreoestevao/blob/output/github-contribution-grid-snake.svg)
-
-
 <div>
   <a href="https://github.com/hendreoestevao">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hendreoestevao&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
