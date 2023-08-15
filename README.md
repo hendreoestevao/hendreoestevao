@@ -13,6 +13,8 @@
     <img align="center" alt="Hendreo-Flutter" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Hendreo-Node" height="30" width="40" <img <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
+
+##
  
 <div> 
   <a href="https://instagram.com/hendreoestevao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,6 +22,8 @@
   <a href = "mailto:hendreosantos1@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hendreo-estev%C3%A3o-906b73148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
 
 <div>
   <a href="https://github.com/hendreoestevao">
