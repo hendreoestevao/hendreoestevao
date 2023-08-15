@@ -13,8 +13,6 @@
     <img align="center" alt="Hendreo-Flutter" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Hendreo-Node" height="30" width="40" <img <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-  
-  ##
  
 <div> 
   <a href="https://instagram.com/hendreoestevao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
