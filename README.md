@@ -46,9 +46,7 @@
   </a>
 
 
-  ## 🐍 Estatísticas do Snake
-
+## 🐍 Minhas Contribuições
 <div align="center">
   <img src="https://github.com/hendreoestevao/hendreoestevao/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
