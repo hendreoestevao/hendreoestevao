@@ -3,6 +3,7 @@
 🔭 Atualmente trabalho como **Engenheiro de Software**.  
 💻 Atuando como Desenvolvedor Web **Front-end** com **Angular** e **Back-end** com **Java**.  
 📱 Também desenvolvo aplicações com **Flutter**, **Laravel** e **Firebase**.
+
 🌱 Estudando **Java para sempre**.  
 ##
 
