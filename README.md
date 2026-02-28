@@ -39,16 +39,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/hendreoestevao">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hendreoestevao&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/hendreoestevao">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendreoestevao&layout=compact&langs_count=7&theme=react"/>
-  </a>
-
-
 ## 🐍 Minhas Contribuições
 <div align="center">
   <img src="https://github.com/hendreoestevao/hendreoestevao/blob/output/github-contribution-grid-snake.svg" />
